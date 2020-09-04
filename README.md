@@ -1,2 +1,4 @@
 # Python-Tutorial
-Python Tutorial of mine 
+
+## [Base](/Base/)
+> Base of Python
