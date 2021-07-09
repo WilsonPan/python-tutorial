@@ -1,4 +1,4 @@
-- Defining Functions
+# Defining Functions
 
 ```python
 def fib(n):
@@ -11,4 +11,3 @@ fib(10)
 ```
 
 - Default Argument Values
-
